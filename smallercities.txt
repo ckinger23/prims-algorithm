@@ -1,0 +1,14 @@
+NYC DC LA Chicago Houston Philadelphia Phoenix SA SD Dallas Austin Jacksonville
+NYC DC 12
+Austin LA 25
+Austin Jacksonville 21
+Austin Houston 5
+Dallas Houston 12
+Chicago Philadelphia 13
+NYC Philadelphia 7
+Austin Phoenix 18
+Phoenix SA 14
+SA SD 29
+SA Dallas 11
+Chicago SD 42
+SD Austin 5
